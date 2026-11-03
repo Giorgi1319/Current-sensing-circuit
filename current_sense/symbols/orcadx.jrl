@@ -1,0 +1,75 @@
+\t (00:00:08) orcadx 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Oct 28 19:21:35 2026
+\t (00:00:08)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=1488 CPUs=8
+\t (00:00:08) CmdLine= unison -layout -orcadx -productToken 000168FFEFD5F7B6E4FB61EEF485F4E1B8E273A0EE9BA2A9E6F66DA8EA86F4B2E6FD37D1A9A0B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9031FCFBC3A3B1B3F839B5EA85F4B0B7AC38FBED9BC09A80CF30E0AAECC084E7A63FFFF9ED90A9D4804B879FCAFF84BFF038FBED85C08480CF38FBED85C08480CF5219FF73D272EA2D000040B4 C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/symbols/c0805.dra
+\t (00:00:08) 
+\d (00:00:08) Design opened: C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/symbols/c0805.dra
+\i (00:00:08) trapsize 3906
+\i (00:00:09) trapsize 5495
+\t (00:00:12) Loading consmgr.cxt 
+\t (00:00:12) Loading acns_formula.cxt 
+\i (00:00:12) trapsize 5488
+\i (00:00:13) trapsize 5643
+\w (00:00:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:14) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:00:14) trapsize 3900
+\i (00:00:14) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:14) updateport VisibilityPane
+\i (00:00:14) updateport PropPane
+\i (00:00:14) ucpedit 
+\i (00:00:14) updateport VisibilityPane
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -3.3541 3.9001
+\i (00:00:16) trapsize 1950
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -3.3541 3.9002
+\i (00:00:16) trapsize 975
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -3.3540 3.9002
+\i (00:00:16) trapsize 488
+\i (00:00:17) pick grid -0.8774 2.5937
+\t (00:00:17) last pick:  -0.8774 2.5937
+\i (00:00:35) QtSignal PropertyGeneralWidget PropertyAttributesGroup EditingFinished
+\i (00:00:35) updateport ReportsPane
+\i (00:00:35) updateport SearchPane
+\i (00:00:35) updateport PropPane
+\i (00:00:36) QtSignal PropertyGeneralWidget PropertyAttrTextBlock CurrentIndexChanged 1
+\i (00:00:36) updateport ReportsPane
+\i (00:00:36) updateport SearchPane
+\i (00:00:36) updateport PropPane
+\i (00:00:38) QtSignal PropertyGeneralWidget PropertyAttrTextBlock CurrentIndexChanged 3
+\i (00:00:38) updateport ReportsPane
+\i (00:00:38) updateport SearchPane
+\i (00:00:38) updateport PropPane
+\i (00:00:43) QtSignal PropertyGeneralWidget PropertyAttrTextBlock CurrentIndexChanged 1
+\i (00:00:43) updateport ReportsPane
+\i (00:00:43) updateport SearchPane
+\i (00:00:43) updateport PropPane
+\i (00:00:45) QtSignal PropertyGeneralWidget PropertyAttrTextBlock CurrentIndexChanged 7
+\i (00:00:45) updateport ReportsPane
+\i (00:00:45) updateport SearchPane
+\i (00:00:45) updateport PropPane
+\i (00:00:47) QtSignal PropertyGeneralWidget PropertyAttrTextBlock CurrentIndexChanged 3
+\i (00:00:47) updateport ReportsPane
+\i (00:00:47) updateport SearchPane
+\i (00:00:47) updateport PropPane
+\w (00:00:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:50) updateport CMPanelPort
+\i (00:00:50) updateport PropPane
+\i (00:00:50) updateport ReportsPane
+\i (00:00:50) updateport SearchPane
+\i (00:00:50) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:50) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:51) updateport ReportsPane
+\i (00:00:51) updateport SearchPane
+\i (00:00:51) updateport PropPane
+\i (00:00:56) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:56) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:00:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:00:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:00:56) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:01:03)     Journal end - Wed Oct 28 19:22:30 2026

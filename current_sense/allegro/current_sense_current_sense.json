@@ -1,0 +1,45 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [
+		{
+			"Name" : "GND\/",
+			"C_PATH" : "@current_sense.schematic1(sch_1):ins6023@current_sense_parts.\\24.243.2.normal\\(chips)",
+			"Logical" : "GND\/",
+			"Physical" : "J8"
+		},
+		{
+			"Name" : "VCC",
+			"C_PATH" : "@current_sense.schematic1(sch_1):ins6064@current_sense_parts.\\24.243.1.normal\\(chips)",
+			"Logical" : "VCC",
+			"Physical" : "J9"
+		},
+		{
+			"Name" : "VCC_MCU",
+			"C_PATH" : "@current_sense.schematic1(sch_1):ins8098@current_sense_parts.\\24.243.1.normal\\(chips)",
+			"Logical" : "VCC_MCU",
+			"Physical" : "J10"
+		}
+	],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "-3V3",
+			"C_PATH" : "@current_sense.schematic1(sch_1):\\-3v3\\",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "0.0v"
+		},
+		{
+			"Name" : "3V3",
+			"C_PATH" : "@current_sense.schematic1(sch_1):\\3v3\\",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "0.0v"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

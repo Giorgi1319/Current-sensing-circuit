@@ -1,0 +1,25 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_CDS_FSP_UID!NET_SHIELD_NET!NET_RELATIVE_PROPAGATION_DELAY!NET_NO_PIN_ESCAPE!NET_NET_SHORT!NET_VOLTAGE_LAYER!NET_VOLTAGE!NET_RATSNEST_SCHEDULE!NET_CLOCK_NET!NET_NET_PHYSICAL_TYPE!NET_MAX_FINAL_SETTLE!NET_NO_TEST!NET_MAX_EXPOSED_LENGTH!NET_ELECTRICAL_CONSTRAINT_SET!NET_CDS_FSP_BUS_INDEX!NET_STUB_LENGTH!NET_SHIELD_TYPE!NET_NO_RAT!NET_PROPAGATION_DELAY!NET_NO_RIPUP!NET_MIN_HOLD!NET_DIFFERENTIAL_PAIR!NET_MIN_SETUP!NET_MIN_NECK_WIDTH!NET_BUS_NAME!NET_MIN_NOISE_MARGIN!NET_MATCHED_DELAY!NET_ECL!NET_DIFFP_LENGTH_TOL!NET_DIFFP_2ND_LENGTH!NET_NET_GROUP_GRP_NAME!NET_SUBNET_NAME!NET_MIN_BOND_LENGTH!NET_MAX_OVERSHOOT!NET_TS_ALLOWED!NET_MAX_VIA_COUNT!NET_EMC_CRITICAL_NET!NET_CDS_FSP_NET!NET_PROBE_NUMBER!NET_NO_ROUTE!NET_MIN_LINE_WIDTH!NET_ECL_TEMP!NET_NO_GLOSS!NET_ROUTE_PRIORITY!NET_NET_SPACING_TYPE!NET_IMPEDANCE_RULE!
+J!c:/users/giorgi/appdata/roaming/spb_data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd!Sat Oct 31 00:42:38 2026!0.0000!0.0000!881.1882!926.7616!0.0001!millimeters!CURRENT_SENSE!62.931496 mil!4!UP TO DATE!
+S!N04736!@current_sense.schematic1(sch_1):n04736!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N04732!@current_sense.schematic1(sch_1):n04732!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!INA_REF!@current_sense.schematic1(sch_1):ina_ref!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!ADC_CONVST!@current_sense.schematic1(sch_1):adc_convst!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!ADC_DOUT!@current_sense.schematic1(sch_1):adc_dout!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!ADC_CLK!@current_sense.schematic1(sch_1):adc_clk!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!ADC_DIN!@current_sense.schematic1(sch_1):adc_din!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!5V!@current_sense.schematic1(sch_1):\5v\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01570!@current_sense.schematic1(sch_1):n01570!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N10491!@current_sense.schematic1(sch_1):n10491!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!3V3!@current_sense.schematic1(sch_1):\3v3\!!!!!!!0.0v!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!ADC_REF!@current_sense.schematic1(sch_1):adc_ref!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N01042!@current_sense.schematic1(sch_1):n01042!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N07044!@current_sense.schematic1(sch_1):n07044!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N00953!@current_sense.schematic1(sch_1):n00953!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!-3V3!@current_sense.schematic1(sch_1):\-3v3\!!!!!!!0.0v!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!12V!@current_sense.schematic1(sch_1):\12v\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!0!@current_sense.schematic1(sch_1):\0\!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N00738!@current_sense.schematic1(sch_1):n00738!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N00428!@current_sense.schematic1(sch_1):n00428!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!N00424!@current_sense.schematic1(sch_1):n00424!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!VCC_MCU!@current_sense.schematic1(sch_1):vcc_mcu!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+S!VCC!@current_sense.schematic1(sch_1):vcc!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

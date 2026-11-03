@@ -1,0 +1,13 @@
+\t (00:00:01) orcadx 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Oct 28 14:57:21 2026
+\t (00:00:01)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=612 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx -mpssession Giorgi -proj c:\users\giorgi\appdata\roaming\spb_data\cdssetup\workspace\projects\current_sense\current_sense.opj c:/users/giorgi/appdata/roaming/spb_data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd
+\t (00:00:01) 
+\t (00:00:06) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:09) trapsize 10500
+\i (00:00:09) opencd c:/users/giorgi/appdata/roaming/spb_data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 81764
+\t (00:00:09) > Sending response DoneOpenBoard
+\t (00:00:09)     Journal end - Wed Oct 28 14:57:29 2026

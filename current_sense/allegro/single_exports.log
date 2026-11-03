@@ -1,0 +1,63 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : current_sense.brd                             )
+(    Software Version : 24.1S010                                      )
+(    Date/Time        : Sat Oct 31 00:56:30 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	LAYER_1
+	LAYER_2
+	BOTTOM
+	NCLEGEND-1-4
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_IPC2581
+
+	Executing command :IPC2581 Database (Fabrication)
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+2 out of 2 exports successfully created. outputs are added to current_sense_Fabrication_IPC2581.zip
+
+Processing group :Fabrication_Gerber
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :NC Drill - NC Route
+		Successfully generated outputs
+
+	Executing command :IPC-D-356 Netlist
+		Successfully generated outputs
+
+	Executing command :Backdrill Report
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+	Executing command :Artwork Film Record PDFs
+		Successfully generated outputs
+
+6 out of 6 exports successfully created. outputs are added to current_sense_Fabrication_Gerber.zip
+
+
+Configuration data is saved as an attachment to the design

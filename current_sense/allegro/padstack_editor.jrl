@@ -1,0 +1,47 @@
+\t (00:00:00) padstack_editor 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Oct 29 23:36:59 2026
+\t (00:00:00)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=42392 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession Giorgi -file C:/Users/Giorgi/AppData/Local/Temp/#Taaaaeg24900.tmp -pname VIA-1 -data C:/Users/Giorgi/AppData/Local/Temp/#Taaaaej24900.tmp -unison
+\t (00:00:00) 
+\d (00:00:05) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:00:05) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Regular Pad" 4 2
+\d (00:00:06) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 3 "Regular Pad"
+\d (00:00:06) QtSignal GuidedDesignLayersTab LayersTable cellClicked 3 "Regular Pad" 3 2
+\d (00:00:06) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:07) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad" 1 +
+\d (00:00:07) QtSignal "Regular Pad" 2 "Regular Pad" 3 "Regular Pad" 4 "Regular Pad"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Layer Name"
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Layer Name" 0 1
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Layer Name"
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Layer Name" 1 1
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Layer Name"
+\d (00:00:24) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Layer Name" 2 1
+\d (00:00:24) QtSignal GuidedDesignLayersTab LayersTable cellClicked 3 "Layer Name" 3 1
+\d (00:00:24) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 4 "Layer Name"
+\d (00:00:24) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Layer Name" 4 1
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 4 "Regular Pad"
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Regular Pad" 4 2
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 4 "Regular Pad" 4 2
+\d (00:00:25) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Regular Pad" 4 2
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Layer Name"
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Layer Name" 0 1
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 4 "Layer Name"
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable cellClicked 4 "Layer Name" 4 1
+\d (00:00:31) QtSignal MainWindow Exit triggered
+\t (00:00:32)     Journal end - Thu Oct 29 23:37:31 2026

@@ -1,0 +1,296 @@
+\t (00:00:22) orcadx 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:00:22)     Journal start - Sat Oct 31 19:56:26 2026
+\t (00:00:22)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=33476 CPUs=8
+\t (00:00:22) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:22) 
+\d (00:00:22) Design opened: c:/users/giorgi/appdata/roaming/spb_data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd
+\i (00:00:22) trapsize 3969
+\i (00:00:26) trapsize 5342
+\t (00:00:41) Loading consmgr.cxt 
+\t (00:00:41) Loading acns_formula.cxt 
+\i (00:00:41) trapsize 5470
+\i (00:00:47) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:00:48) updateport VisibilityPane
+\i (00:00:48) updateport PropPane
+\i (00:00:48) QtSignal ADTableContainerWidget ADTableTab currentChanged "Traces/Wires (66)"
+\i (00:00:48) QtSignal ADTableContainerWidget Traces/WiresTableHeader InvokeFacetWindow 3 5 1 306 +
+\i (00:00:48) QtSignal 755
+\i (00:00:48) ucpedit 
+\i (00:00:48) updateport VisibilityPane
+\i (00:00:56) QtSignal facet_numerical_dlg filter_first_val_edit editingFinished 0
+\i (00:01:01) QtSignal facet_numerical_dlg filter_first_val_edit editingFinished 3
+\i (00:01:01) QtSignal facet_numerical_dlg filter_cancel_btn clicked
+\i (00:01:01) QtSignal ADTableContainerWidget Traces/WiresTableHeader sectionPressed 5
+\i (00:01:01) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:01) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:01) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:01) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:01) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:01) QtSignal 5 65 5
+\i (00:01:01) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:01) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:01) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:01) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:01) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:01) QtSignal 5 65 5
+\i (00:01:01) esc 
+\i (00:01:02) drag_start grid 302.3126 250.1312
+\i (00:01:02) drag_stop 302.5314 250.1312
+\i (00:01:02) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:02) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:02) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:02) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:02) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:02) QtSignal 5 65 5
+\i (00:01:02) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:02) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:02) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:02) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:02) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:02) QtSignal 5 65 5
+\i (00:01:02) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:02) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:02) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:02) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:02) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:02) QtSignal 5 65 5
+\i (00:01:02) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 0 5 1 5 2 5 3 5 +
+\i (00:01:02) QtSignal 4 5 5 5 6 5 7 5 8 5 9 5 10 5 11 5 12 5 13 5 14 5 15 5 16 5 17 5 18 5 19 5 +
+\i (00:01:02) QtSignal 20 5 21 5 22 5 23 5 24 5 25 5 26 5 27 5 28 5 29 5 30 5 31 5 32 5 33 5 34 +
+\i (00:01:02) QtSignal 5 35 5 36 5 37 5 38 5 39 5 40 5 41 5 42 5 43 5 44 5 45 5 46 5 47 5 48 5 49 +
+\i (00:01:02) QtSignal 5 50 5 51 5 52 5 53 5 54 5 55 5 56 5 57 5 58 5 59 5 60 5 61 5 62 5 63 5 64 +
+\i (00:01:02) QtSignal 5 65 5
+\i (00:01:02) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 1 5
+\i (00:01:03) QtSignal ADTableContainerWidget Traces/WiresTable selectionChanged 1 5
+\i (00:01:03) esc 
+\i (00:01:03) pick grid 312.8145 247.0682
+\t (00:01:03) last pick:  312.8145 247.0682
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 218.2974 233.7220
+\i (00:01:05) trapsize 2735
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 218.2974 233.7220
+\i (00:01:05) trapsize 1367
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 218.2974 233.7220
+\i (00:01:05) trapsize 684
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 218.3521 233.8314
+\i (00:01:05) trapsize 1367
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 218.3522 233.8314
+\i (00:01:05) trapsize 2735
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 220.1025 235.3629
+\i (00:01:06) trapsize 1367
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 221.1965 235.3630
+\i (00:01:07) trapsize 2735
+\i (00:01:08) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:01:08) QtSignal 0
+\i (00:01:08) updateport ReportsPane
+\i (00:01:08) updateport SearchPane
+\i (00:01:08) updateport VisibilityPane
+\i (00:01:08) updateport PropPane
+\i (00:01:08) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Silkscreen_Top" +
+\i (00:01:08) QtSignal 1
+\i (00:01:08) updateport ReportsPane
+\i (00:01:08) updateport SearchPane
+\i (00:01:08) updateport VisibilityPane
+\i (00:01:08) updateport PropPane
+\i (00:01:09) ucp_switchview 
+\i (00:01:12) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:01:12) ucpedit 
+\i (00:01:13) updateport VisibilityPane
+\i (00:02:20) QtSignal Algro3DViewCameraWidget Algro3DViewBottomAction triggered
+\i (00:02:27) QtSignal Algro3DViewCameraWidget Algro3DViewFrontAction triggered
+\i (00:02:30) QtSignal Algro3DViewCameraWidget Algro3DViewTopAction triggered
+\i (00:03:57) ucp_switchview 
+\i (00:03:57) ucpedit 
+\i (00:03:57) updateport VisibilityPane
+\i (00:04:01) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (00:04:01) updateport ReportsPane
+\i (00:04:01) updateport SearchPane
+\i (00:04:01) updateport VisibilityPane
+\i (00:04:01) updateport PropPane
+\i (00:04:02) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_1" +
+\i (00:04:02) QtSignal 0
+\i (00:04:02) updateport ReportsPane
+\i (00:04:02) updateport SearchPane
+\i (00:04:02) updateport VisibilityPane
+\i (00:04:02) updateport PropPane
+\i (00:04:03) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_1" +
+\i (00:04:03) QtSignal 1
+\i (00:04:03) updateport ReportsPane
+\i (00:04:03) updateport SearchPane
+\i (00:04:03) updateport VisibilityPane
+\i (00:04:03) updateport PropPane
+\i (00:04:04) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_1" +
+\i (00:04:04) QtSignal 0
+\i (00:04:04) updateport ReportsPane
+\i (00:04:04) updateport SearchPane
+\i (00:04:04) updateport VisibilityPane
+\i (00:04:04) updateport PropPane
+\i (00:04:04) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_2" +
+\i (00:04:04) QtSignal 0
+\i (00:04:04) updateport ReportsPane
+\i (00:04:04) updateport SearchPane
+\i (00:04:04) updateport VisibilityPane
+\i (00:04:04) updateport PropPane
+\i (00:04:05) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Bottom 0
+\i (00:04:05) updateport ReportsPane
+\i (00:04:05) updateport SearchPane
+\i (00:04:05) updateport VisibilityPane
+\i (00:04:05) updateport PropPane
+\i (00:04:06) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_1" +
+\i (00:04:06) QtSignal 1
+\i (00:04:06) updateport ReportsPane
+\i (00:04:06) updateport SearchPane
+\i (00:04:06) updateport VisibilityPane
+\i (00:04:06) updateport PropPane
+\i (00:04:07) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_1" +
+\i (00:04:07) QtSignal 0
+\i (00:04:07) updateport ReportsPane
+\i (00:04:07) updateport SearchPane
+\i (00:04:07) updateport VisibilityPane
+\i (00:04:07) updateport PropPane
+\i (00:04:08) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (00:04:08) updateport ReportsPane
+\i (00:04:08) updateport SearchPane
+\i (00:04:08) updateport VisibilityPane
+\i (00:04:08) updateport PropPane
+\i (00:04:08) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (00:04:08) updateport ReportsPane
+\i (00:04:08) updateport SearchPane
+\i (00:04:08) updateport VisibilityPane
+\i (00:04:08) updateport PropPane
+\i (00:04:09) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 1
+\i (00:04:09) updateport ReportsPane
+\i (00:04:09) updateport SearchPane
+\i (00:04:09) updateport VisibilityPane
+\i (00:04:09) updateport PropPane
+\i (00:04:09) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged Top 0
+\i (00:04:09) updateport ReportsPane
+\i (00:04:09) updateport SearchPane
+\i (00:04:09) updateport VisibilityPane
+\i (00:04:09) updateport PropPane
+\i (00:04:10) QtSignal VisibilityLayersObjArWidget VisLayerTable layerVisibilityChanged "Layer_2" +
+\i (00:04:10) QtSignal 1
+\i (00:04:10) updateport ReportsPane
+\i (00:04:10) updateport SearchPane
+\i (00:04:10) updateport VisibilityPane
+\i (00:04:10) updateport PropPane
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 228.9635 254.3976
+\i (00:04:12) trapsize 1367
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 228.9635 254.3976
+\i (00:04:12) trapsize 684
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 228.9636 254.3977
+\i (00:04:12) trapsize 342
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 228.9362 254.3157
+\i (00:04:12) trapsize 684
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 228.9360 254.3157
+\i (00:04:13) trapsize 1367
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 228.9360 254.3157
+\i (00:04:13) trapsize 2735
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 228.9360 254.3157
+\i (00:04:13) trapsize 5470
+\t (16:20:58) Performing Auto-Backup...
+\t (16:20:59) Auto-Backup successful
+\i (16:20:59) updateport ReportsPane
+\i (16:20:59) updateport SearchPane
+\i (16:20:59) updateport PropPane
+\i (18:47:34) zoom in 1 
+\i (18:47:34) setwindow pcb
+\i (18:47:34) zoom in 242.0636 226.9668
+\i (18:47:34) trapsize 2735
+\i (18:47:34) zoom in 1 
+\i (18:47:34) setwindow pcb
+\i (18:47:34) zoom in 242.0636 226.9668
+\i (18:47:34) trapsize 1367
+\i (18:47:34) zoom in 1 
+\i (18:47:34) setwindow pcb
+\i (18:47:34) zoom in 242.0636 226.9669
+\i (18:47:34) trapsize 684
+\i (18:47:35) zoom out 1 
+\i (18:47:35) setwindow pcb
+\i (18:47:35) zoom out 242.0636 226.9669
+\i (18:47:35) trapsize 1367
+\i (18:47:35) roam start
+\i (18:47:35) roam x -4
+\i (18:47:35) roam x -16
+\i (18:47:35) roam y 8
+\i (18:47:35) roam x -2
+\i (18:47:35) roam x -10
+\i (18:47:35) roam y 4
+\i (18:47:35) roam x -168
+\i (18:47:35) roam y -42
+\i (18:47:35) roam x -4
+\i (18:47:35) roam y -2
+\i (18:47:35) roam x -2
+\i (18:47:35) roam x -52
+\i (18:47:35) roam y -44
+\i (18:47:36) roam x -2
+\i (18:47:36) roam y -2
+\i (18:47:36) roam x -2
+\i (18:47:36) roam y -6
+\i (18:47:36) roam x -2
+\i (18:47:36) roam end
+\i (18:47:36) zoom in 1 
+\i (18:47:36) setwindow pcb
+\i (18:47:36) zoom in 242.0390 226.8876
+\i (18:47:36) trapsize 684
+\i (18:47:36) zoom in 1 
+\i (18:47:36) setwindow pcb
+\i (18:47:36) zoom in 242.0390 226.8877
+\i (18:47:36) trapsize 342
+\i (18:47:36) zoom out 1 
+\i (18:47:36) setwindow pcb
+\i (18:47:36) zoom out 242.0390 226.8877
+\i (18:47:36) trapsize 684
+\i (18:47:36) zoom out 1 
+\i (18:47:36) setwindow pcb
+\i (18:47:36) zoom out 242.0390 226.8877
+\i (18:47:36) trapsize 1367
+\i (18:47:36) zoom out 1 
+\i (18:47:36) setwindow pcb
+\i (18:47:36) zoom out 242.0390 226.8876
+\i (18:47:36) trapsize 2735
+\i (18:47:37) roam start
+\i (18:47:37) roam x -8
+\i (18:47:37) roam x -48
+\i (18:47:37) roam y 6
+\i (18:47:37) roam y 2
+\i (18:47:37) roam x -2
+\i (18:47:37) roam x -20
+\i (18:47:37) roam y 4
+\i (18:47:37) roam end
+\i (18:47:39) ucp_switchview 
+\i (18:47:39) ucpedit 
+\i (18:47:39) updateport VisibilityPane
+\i (18:54:21) QtSignal MainCanvas CplPrefDialog closed
+\i (18:54:21) QtSignal MainCanvas CplGrpSel closed
+\i (18:54:21) QtSignal MainCanvas ImpGrpSel closed
+\i (18:54:21) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (18:54:21) QtSignal MainCanvas ImpPrefDialog closed
+\t (18:54:27)     Journal end - Sun Nov  1 14:50:32 2026

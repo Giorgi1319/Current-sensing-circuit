@@ -1,0 +1,205 @@
+\t (00:02:50) orcadx 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:02:50)     Journal start - Wed Oct 28 01:36:59 2026
+\t (00:02:50)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=39564 CPUs=8
+\t (00:02:50) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\unison.exe -layout -orcadx
+\t (00:02:50) 
+\d (00:02:50) Design opened: C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/symbols/c0603.dra
+\i (00:02:50) trapsize 3472
+\i (00:02:53) trapsize 4673
+\t (00:02:59) Loading consmgr.cxt 
+\t (00:02:59) Loading acns_formula.cxt 
+\i (00:02:59) trapsize 4669
+\i (00:03:02) trapsize 4780
+\w (00:03:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:04) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:03:04) trapsize 3374
+\i (00:03:05) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:03:05) updateport VisibilityPane
+\i (00:03:05) updateport PropPane
+\i (00:03:05) ucpedit 
+\i (00:03:05) updateport VisibilityPane
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in 0.3374 -2.5641
+\i (00:03:06) trapsize 1687
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in 0.3374 -2.5641
+\i (00:03:06) trapsize 843
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in 0.3374 -2.5640
+\i (00:03:06) trapsize 422
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in 0.3375 -2.5640
+\i (00:03:06) trapsize 211
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in 0.3375 -2.5640
+\i (00:03:06) trapsize 105
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 0.3460 -2.0831
+\i (00:03:06) trapsize 211
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 0.3460 -2.0832
+\i (00:03:06) trapsize 422
+\i (00:03:07) roam start
+\i (00:03:07) roam x -4
+\i (00:03:07) roam y -6
+\i (00:03:07) roam x -8
+\i (00:03:07) roam y -12
+\i (00:03:07) roam x -4
+\i (00:03:07) roam y -6
+\i (00:03:07) roam x -4
+\i (00:03:07) roam y -4
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -2
+\i (00:03:07) roam x -6
+\i (00:03:07) roam y -8
+\i (00:03:07) roam x -10
+\i (00:03:07) roam y -12
+\i (00:03:07) roam x -12
+\i (00:03:07) roam y -12
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -4
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -24
+\i (00:03:07) roam y -26
+\i (00:03:07) roam x -8
+\i (00:03:07) roam y -8
+\i (00:03:07) roam x -10
+\i (00:03:07) roam y -8
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -2
+\i (00:03:07) roam x -64
+\i (00:03:07) roam y -50
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -24
+\i (00:03:07) roam y -16
+\i (00:03:07) roam x -14
+\i (00:03:07) roam y -10
+\i (00:03:07) roam x -2
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -2
+\i (00:03:07) roam x -56
+\i (00:03:07) roam y -40
+\i (00:03:07) roam x -2
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -36
+\i (00:03:07) roam y -24
+\i (00:03:07) roam x -4
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -2
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -42
+\i (00:03:07) roam y -30
+\i (00:03:07) roam x -2
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -2
+\i (00:03:07) roam x -30
+\i (00:03:07) roam y -30
+\i (00:03:07) roam x -6
+\i (00:03:07) roam y -8
+\i (00:03:07) roam x -2
+\i (00:03:07) roam y -2
+\i (00:03:07) roam x -6
+\i (00:03:07) roam y -6
+\i (00:03:07) roam end
+\i (00:03:09) pick grid -2.3108 -0.6912
+\t (00:03:09) last pick:  -2.3108 -0.6912
+\i (00:03:10) pick grid -0.1346 -1.2817
+\t (00:03:10) last pick:  -0.1346 -1.2817
+\i (00:03:10) pick grid dbl -0.1346 -1.2817
+\t (00:03:10) last pick:  -0.1346 -1.2817
+\i (00:03:10) pick grid -0.1346 -1.2817
+\t (00:03:10) last pick:  -0.1346 -1.2817
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in -0.4720 -0.1683
+\i (00:03:11) trapsize 211
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in -0.4720 -0.1683
+\i (00:03:11) trapsize 105
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in -0.4719 -0.1683
+\i (00:03:11) trapsize 53
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out -0.4719 -0.1683
+\i (00:03:11) trapsize 105
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out -0.4718 -0.1683
+\i (00:03:11) trapsize 211
+\i (00:03:14) pick grid 2.1176 1.6536
+\t (00:03:14) last pick:  2.1176 1.6536
+\i (00:03:15) toggle ucp_command_option_toolbar_visibility_at_cursor 
+\i (00:03:15) pick grid 0.9030 -0.1514
+\t (00:03:15) last pick:  0.9030 -0.1514
+\i (00:03:15) updateport ReportsPane
+\i (00:03:15) updateport SearchPane
+\i (00:03:15) updateport PropPane
+\i (00:03:16) pick grid 2.5393 1.5524
+\t (00:03:16) last pick:  2.5393 1.5524
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -0.4128 1.1728
+\i (00:03:17) trapsize 422
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -0.4128 1.1728
+\i (00:03:17) trapsize 843
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -0.4129 1.1728
+\i (00:03:17) trapsize 422
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -0.4128 1.1728
+\i (00:03:17) trapsize 211
+\i (00:03:19) pick grid -0.2779 0.7005
+\t (00:03:19) last pick:  -0.2779 0.7005
+\i (00:03:20) pick grid -0.3453 0.8017
+\t (00:03:20) last pick:  -0.3453 0.8017
+\i (00:03:20) pick grid -0.3285 0.7342
+\t (00:03:20) last pick:  -0.3285 0.7342
+\i (00:03:20) pick grid dbl -0.3285 0.7342
+\t (00:03:20) last pick:  -0.3285 0.7342
+\i (00:03:21) drag_start grid -0.3285 0.7679
+\i (00:03:21) ucp_move 
+\t (00:03:21) last pick:  -0.3285 0.7679
+\t (00:03:21) Pick new location for the element(s).
+\i (00:03:22) drag_stop grid -0.2104 1.7801
+\i (00:03:22) updateport ReportsPane
+\i (00:03:22) updateport SearchPane
+\i (00:03:22) updateport PropPane
+\i (00:03:22) ucpedit 
+\i (00:03:23) updateport VisibilityPane
+\i (00:03:23) pick grid 2.6236 1.5439
+\t (00:03:23) last pick:  2.6236 1.5439
+\e (00:03:24) Do you want to save the changes you made to c0603.dra?
+\i (00:03:25) fillin no 
+\t (00:03:29) Pick point (10500.0 8500.0) changed to origin (0.0, 0.0)
+\i (00:03:29) opencd C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/symbols/Untitled.dra 
+\t (00:03:29) Opening existing design...
+\i (00:03:30) trapsize 10500
+\d (00:03:30) Design opened: C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/symbols/Untitled.dra
+\i (00:03:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:03:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:03:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:31) trapsize 1004
+\i (00:03:31) trapsize 574
+\i (00:03:31) updateport VisibilityPane
+\i (00:03:31) updateport PropPane
+\i (00:03:31) ucpedit 
+\i (00:03:31) updateport VisibilityPane
+\i (00:03:37) pick grid -6026.3 3533.1
+\t (00:03:37) last pick:  -6026.3 3533.1
+\i (11:41:00) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (11:41:00) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (11:41:06)     Journal end - Wed Oct 28 13:15:15 2026

@@ -1,0 +1,43 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/users/giorgi/appdata/roaming/spb_data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd!Sat Oct 31 00:50:58 2026!0.0000!0.0000!881.1882!926.7616!0.0001!millimeters!CURRENT_SENSE!62.931496 mil!4!OUT OF DATE!
+S!@current_sense.schematic1(sch_1):ins12010@filtsub.\c.normal\(chips)!C_C0805_1UF!C24!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins12147@filtsub.\c.normal\(chips)!C_C0805_1UF!C25!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins11788@current_sense_parts.\lp5907mfx-3.3.normal\(chips)!LP5907MFX-3.3_SOT23_5_LP5907MFX-3.3!U13!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins10633@filtsub.\c.normal\(chips)!C_C0805_0.33UF!C22!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins10804@filtsub.\c.normal\(chips)!C_C0805_0.1UF!C23!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins10588@current_sense_parts.\78l05.normal\(chips)!78L05_SOT89_TAB4_78L05!U11!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins722@filtsub.\c.normal\(chips)!C_C0603_330P!C1!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins4596@filtsub.\c.normal\(chips)!C_C0603_1UF!C10!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins4716@filtsub.\c.normal\(chips)!C_C0603_1UF!C11!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins5669@filtsub.\c.normal\(chips)!C_C0603_1UF!C14!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins5764@filtsub.\c.normal\(chips)!C_C0603_1UF!C15!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins7028@filtsub.\c.normal\(chips)!C_C0603_1UF!C17!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins7200@filtsub.\c.normal\(chips)!C_C0603_1UF!C18!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins4487@filtsub.\c.normal\(chips)!C_C0603_1UF!C9!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins5467@filtsub.\c.normal\(chips)!C_C0603_100NF!C12!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins5548@filtsub.\c.normal\(chips)!C_C0603_100NF!C13!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins7654@filtsub.\c.normal\(chips)!C_C0603_100NF!C20!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins7784@filtsub.\c.normal\(chips)!C_C0603_100NF!C21!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins7416@filtsub.\c.normal\(chips)!C_C1206_47UF!C19!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins1026@filtsub.\c.normal\(chips)!C_C0603_1NF!C2!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins3088@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!GND!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins3131@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!DIN!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins3170@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!CLK!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins3233@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!DOUT!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins3272@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!CONVST!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins4369@connector.\header 1.normal\(chips)!HEADER 1_HDR1X01_254_HEADER 1!12V!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins8098@current_sense_parts.\24.243.1.normal\(chips)!24.243.1_BANANA_24243_24.243.1!J10!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins6064@current_sense_parts.\24.243.1.normal\(chips)!24.243.1_BANANA_24243_24.243.1!J9!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins6023@current_sense_parts.\24.243.2.normal\(chips)!24.243.2_BANANA_24243_24.243.2!J8!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins408@filtsub.\r.normal\(chips)!R_R0603_2.37K!R1!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins578@filtsub.\r.normal\(chips)!R_R0603_1K!R2!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins983@filtsub.\r.normal\(chips)!R_R0603_22!R3!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins1528@filtsub.\r.normal\(chips)!R_R0603_24K!R4!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins1554@filtsub.\r.normal\(chips)!R_R0603_750!R5!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins40@filtsub.\r.normal\(chips)!R_R1206_1!R6!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins271@current_sense_parts.\ina821xdrg.normal\(chips)!INA821XDRG_WSON8_3X3_EP_INA821XDRG!U1!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins6887@current_sense_parts.\ref6033.normal\(chips)!REF6033_VSSOP8_3X3_REF6033!U10!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins921@current_sense_parts.\opa365xxdbv.normal\(chips)!OPA365XXDBV_SOT23_5_OPA365XXDBV!U2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins1479@current_sense_parts.\opa365xxdbv.normal\(chips)!OPA365XXDBV_SOT23_5_OPA365XXDBV!U4!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins1094@current_sense_parts.\ads8860idgs.normal\(chips)!ADS8860IDGS_VSSOP10_3X3_ADS8860IDGS!U3!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@current_sense.schematic1(sch_1):ins4417@current_sense_parts.\tps60403dbv.normal\(chips)!TPS60403DBV_SOT23_5_TPS60403DBV!U8!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

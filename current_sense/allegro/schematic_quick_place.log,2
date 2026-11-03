@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : current_sense.brd                             )
+(    Software Version : 24.1S010                                      )
+(    Date/Time        : Wed Oct 28 18:39:54 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "1"
+	Placed symbol:  C22 / C_C0805_0.33UF / C0805 at (216.1610 276.6509)
+	Placed symbol:  C23 / C_C0805_0.1UF / C0805 at (244.6610 275.5346)
+	Placed symbol:  U11 / 78L05_SOT89_TAB4_78L05 / SOT89_TAB4 at (230.7110 278.8835)
+	Placed symbol:  U8 / TPS60403DBV_SOT23_5_TPS60403DBV / SOT23_5 at (271.3710 276.6509)
+	Placed symbol:  C9 / C_C0603_1UF / C0603 at (257.8410 274.4183)
+	Placed symbol:  C11 / C_C0603_1UF / C0603 at (284.9010 273.3021)
+	Placed symbol:  C10 / C_C0603_1UF / C0603 at (297.8610 274.4183)
+
+Placed 7 of 7 symbols.

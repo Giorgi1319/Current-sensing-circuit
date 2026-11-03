@@ -1,0 +1,262 @@
+(ExpressProject "current_sense"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S010 (4468922)  [8/10/2026]-[10/31/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Users\Giorgi\Documents\MYPARTS.OLB"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\current_sense.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCADX")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE.DRC")
+    ("Allegro Netlist Output Board File" ".\allegro\current_sense.brd"))
+  (Folder "Layout"
+    (File ".\allegro\current_sense.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\current_sense.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\current_sense_output\bom.sch.csv"
+      (Type "Report")
+      (DisplayName ".\CURRENT_SENSE_OUTPUT\BOM.SCH.CSV"))
+    (File ".\current_sense.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\giorgi\appdata\roaming\spb_data\cdssetup\workspace\projects\current_sense\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\giorgi\appdata\roaming\spb_data\cdssetup\workspace\projects\current_sense\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\giorgi\appdata\roaming\spb_data\cdssetup\workspace\projects\current_sense\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\giorgi\appdata\roaming\spb_data\cdssetup\workspace\projects\current_sense\allegro\genfeed.log")))
+  (MPSSessionName "Giorgi")
+  (PartMRUSelector
+    (LP5907MFX-3.3
+      (FullPartName "LP5907MFX-3.3.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (78L05
+      (FullPartName "78L05.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\FILTSUB.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\PSPICE\FILTSUB.OLB")
+      (DeviceIndex "0"))
+    (REF6033
+      (FullPartName "REF6033.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (24.243.1
+      (FullPartName "24.243.1.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (24.243.2
+      (FullPartName "24.243.2.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TPS60403DBV
+      (FullPartName "TPS60403DBV.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (AMS1117-3.3
+      (FullPartName "AMS1117-3.3.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 1"
+      (FullPartName "HEADER 1.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OPA365xxDBV
+      (FullPartName "OPA365xxDBV.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (REF5025-HT
+      (FullPartName "REF5025-HT.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (ADS8860IDGS
+      (FullPartName "ADS8860IDGS.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0"))
+    (INA821xDRG
+      (FullPartName "INA821xDRG.Normal")
+      (LibraryName
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE_PARTS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\current_sense.dsn")
+      (Path "Design Resources" ".\current_sense.dsn" "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 540"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 913 24 581")
+        (Scroll "0 0")
+        (Zoom "72")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 913 24 581")
+        (Scroll "70 71")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ADC_REF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 913 24 581")
+        (Scroll "-89 -3")
+        (Zoom "72")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\GIORGI\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\CURRENT_SENSE\CURRENT_SENSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "INPUT")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_24.1\tools\capture\library"))

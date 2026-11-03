@@ -1,0 +1,584 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Oct-31-2026 at 00:50:59 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CURRENT_SENSE';
+ POST_TIME='Aug 10 2026 21:43:26';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 12V 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS4369@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins4369@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins4369@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,20)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,20,40,60)',
+ SECTION='';
+
+PART_NAME
+ C1 'C_C0603_330P':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS722@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins722@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins722@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,180)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(440,180,460,190)',
+ SECTION='';
+
+PART_NAME
+ C10 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS4596@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins4596@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins4596@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,280,740,290)',
+ SECTION='';
+
+PART_NAME
+ C11 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS4716@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins4716@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins4716@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,290,700,300)',
+ SECTION='';
+
+PART_NAME
+ C12 'C_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS5467@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins5467@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins5467@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,60)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,60,310,70)',
+ SECTION='';
+
+PART_NAME
+ C13 'C_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS5548@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins5548@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins5548@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(220,290,240,300)',
+ SECTION='';
+
+PART_NAME
+ C14 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS5669@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins5669@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins5669@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,100)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,100,650,110)',
+ SECTION='';
+
+PART_NAME
+ C15 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS5764@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins5764@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins5764@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,90)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(900,90,920,100)',
+ SECTION='';
+
+PART_NAME
+ C17 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS7028@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins7028@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins7028@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,280)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(100,280,120,290)',
+ SECTION='';
+
+PART_NAME
+ C18 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS7200@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins7200@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins7200@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,260,80,270)',
+ SECTION='';
+
+PART_NAME
+ C19 'C_C1206_47UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS7416@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins7416@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins7416@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,280)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,280,350,290)',
+ SECTION='';
+
+PART_NAME
+ C2 'C_C0603_1NF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS1026@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins1026@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins1026@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,210)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(690,210,710,220)',
+ SECTION='';
+
+PART_NAME
+ C20 'C_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS7654@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins7654@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins7654@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,350)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,350,300,360)',
+ SECTION='';
+
+PART_NAME
+ C21 'C_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS7784@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins7784@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins7784@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,80)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,80,600,90)',
+ SECTION='';
+
+PART_NAME
+ C22 'C_C0805_0.33UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS10633@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins10633@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins10633@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(260,260,280,270)',
+ SECTION='';
+
+PART_NAME
+ C23 'C_C0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS10804@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins10804@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins10804@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,270,450,280)',
+ SECTION='';
+
+PART_NAME
+ C24 'C_C0805_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS12010@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins12010@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins12010@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,130)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,130,260,140)',
+ SECTION='';
+
+PART_NAME
+ C25 'C_C0805_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS12147@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins12147@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins12147@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,100)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(440,100,460,110)',
+ SECTION='';
+
+PART_NAME
+ C9 'C_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS4487@FILTSUB.C.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins4487@filtsub.\c.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins4487@filtsub.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,280,540,290)',
+ SECTION='';
+
+PART_NAME
+ CLK 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS3170@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins3170@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins3170@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,400,40,440)',
+ SECTION='';
+
+PART_NAME
+ CONVST 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS3272@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins3272@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins3272@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,610)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,610,40,650)',
+ SECTION='';
+
+PART_NAME
+ DIN 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS3131@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins3131@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins3131@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,290,40,330)',
+ SECTION='';
+
+PART_NAME
+ DOUT 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS3233@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins3233@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins3233@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,510,40,550)',
+ SECTION='';
+
+PART_NAME
+ GND 'HEADER 1_HDR1X01_254_HEADER 1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS3088@CONNECTOR.HEADER 1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins3088@connector.\header 1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins3088@connector.\header 1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,190)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,190,40,230)',
+ SECTION='';
+
+PART_NAME
+ GND/ '24.243.2_BANANA_24243_24.243.2':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS6023@CURRENT_SENSE_PARTS.24.243.2.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins6023@current_sense_parts.\24.243.2.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins6023@current_sense_parts.\24.243.2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,470)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,470,780,500)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R0603_2.37K':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS408@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins408@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins408@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,150)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(140,150,160,170)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS578@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins578@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins578@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(400,150,420,170)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0603_22':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS983@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins983@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins983@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,170)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,170,690,190)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0603_24K':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS1528@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins1528@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins1528@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,370)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,370,170,390)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0603_750':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS1554@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins1554@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins1554@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,420)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,420,170,440)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R1206_1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS40@FILTSUB.R.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins40@filtsub.\r.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins40@filtsub.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,40)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,40,80,60)',
+ SECTION='';
+
+PART_NAME
+ U1 'INA821XDRG_WSON8_3X3_EP_INA821XDRG':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS271@CURRENT_SENSE_PARTS.INA821XDRG.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins271@current_sense_parts.\ina821xdrg.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins271@current_sense_parts.\ina821xdrg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,100,330,220)',
+ SECTION='';
+
+PART_NAME
+ U10 'REF6033_VSSOP8_3X3_REF6033':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS6887@CURRENT_SENSE_PARTS.REF6033.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins6887@current_sense_parts.\ref6033.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins6887@current_sense_parts.\ref6033.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,220)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,220,260,270)',
+ SECTION='';
+
+PART_NAME
+ U11 '78L05_SOT89_TAB4_78L05':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS10588@CURRENT_SENSE_PARTS.78L05.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins10588@current_sense_parts.\78l05.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins10588@current_sense_parts.\78l05.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,240,400,280)',
+ SECTION='';
+
+PART_NAME
+ U13 'LP5907MFX-3.3_SOT23_5_LP5907MFX-3.3':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS11788@CURRENT_SENSE_PARTS.LP5907MFX-3.3.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins11788@current_sense_parts.\lp5907mfx-3.3.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins11788@current_sense_parts.\lp5907mfx-3.3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,80,370,120)',
+ SECTION='';
+
+PART_NAME
+ U2 'OPA365XXDBV_SOT23_5_OPA365XXDBV':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS921@CURRENT_SENSE_PARTS.OPA365XXDBV.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins921@current_sense_parts.\opa365xxdbv.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins921@current_sense_parts.\opa365xxdbv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,130,620,230)',
+ SECTION='';
+
+PART_NAME
+ U3 'ADS8860IDGS_VSSOP10_3X3_ADS8860IDGS':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS1094@CURRENT_SENSE_PARTS.ADS8860IDGS.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins1094@current_sense_parts.\ads8860idgs.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins1094@current_sense_parts.\ads8860idgs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,150,860,210)',
+ SECTION='';
+
+PART_NAME
+ U4 'OPA365XXDBV_SOT23_5_OPA365XXDBV':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS1479@CURRENT_SENSE_PARTS.OPA365XXDBV.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins1479@current_sense_parts.\opa365xxdbv.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins1479@current_sense_parts.\opa365xxdbv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,380)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(220,380,320,480)',
+ SECTION='';
+
+PART_NAME
+ U8 'TPS60403DBV_SOT23_5_TPS60403DBV':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS4417@CURRENT_SENSE_PARTS.TPS60403DBV.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins4417@current_sense_parts.\tps60403dbv.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins4417@current_sense_parts.\tps60403dbv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,260,650,300)',
+ SECTION='';
+
+PART_NAME
+ VCC '24.243.1_BANANA_24243_24.243.1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS6064@CURRENT_SENSE_PARTS.24.243.1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins6064@current_sense_parts.\24.243.1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins6064@current_sense_parts.\24.243.1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,520)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,520,590,550)',
+ SECTION='';
+
+PART_NAME
+ VCC_MCU '24.243.1_BANANA_24243_24.243.1':;
+
+SECTION_NUMBER 1
+ '@CURRENT_SENSE.SCHEMATIC1(SCH_1):INS8098@CURRENT_SENSE_PARTS.24.243.1.NORMAL(CHIPS)':
+ C_PATH='@current_sense.schematic1(sch_1):ins8098@current_sense_parts.\24.243.1.normal\(chips)',
+ P_PATH='@current_sense.schematic1(sch_1):page1_ins8098@current_sense_parts.\24.243.1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,440)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,440,590,470)',
+ SECTION='';
+
+END.

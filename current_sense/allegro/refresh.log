@@ -1,0 +1,70 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : current_sense.brd                             )
+(    Software Version : 24.1S010                                      )
+(    Date/Time        : Wed Oct 28 14:15:07 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Oct 28 14:15:07 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd'
+Output design = 'current_sense_3d.brd'
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'SOT223_TAB4'  symbol refreshed successfully.
+'VSSOP10_3X3'  symbol refreshed successfully.
+'SOT23_5'  symbol refreshed successfully.
+'VSSOP8_3X3'  symbol refreshed successfully.
+'WSON8_3X3_EP'  symbol refreshed successfully.
+'R1206'  symbol refreshed successfully.
+'R0603'  symbol refreshed successfully.
+'BANANA_24243'  symbol refreshed successfully.
+'HDR1X01_254'  symbol refreshed successfully.
+'C0805'  symbol refreshed successfully.
+'C1206'  symbol refreshed successfully.
+'C0603'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 12 out 12
+    Design updated.
+

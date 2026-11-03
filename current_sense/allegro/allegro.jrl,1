@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 24.1 S010 (4468922) [8/10/2026] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Oct 28 19:30:54 2026
+\t (00:00:00)         Host=DESKTOP-MOLCG3J User=Giorgi Pid=41328 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro.exe -nograph -p C:\Users\Giorgi\AppData\Roaming\SPB_Data\cdssetup\workspace\projects\current_sense\allegro -s C:\Users\Giorgi\AppData\Local\Temp\claude\C--Users-Giorgi\54a9504c-be7f-48be-8e94-2c2351b7e553\scratchpad\fpgen\set_text.scr C:\Users\Giorgi\AppData\Roaming\SPB_Data\cdssetup\workspace\projects\current_sense\allegro\current_sense.brd
+\t (00:00:00) 
+\t (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Giorgi/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/current_sense/allegro/current_sense.brd
+\i (00:00:03) trapsize 156687
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:03) replay 'C:`\Users`\Giorgi`\AppData`\Local`\Temp`\claude`\C--Users-Giorgi`\54a9504c-be7f-48be-8e94-2c2351b7e553`\scratchpad`\fpgen`\set_text.scr' 
+\i (00:00:03) skill 'load("C:/Users/Giorgi/AppData/Local/Temp/claude/C--Users-Giorgi/54a9504c-be7f-48be-8e94-2c2351b7e553/scratchpad/fpgen/set_text.il")' 
+\t (00:00:03) t
+\i (00:00:03) skill '(st_run "C:/Users/Giorgi/AppData/Local/Temp/claude/C--Users-Giorgi/54a9504c-be7f-48be-8e94-2c2351b7e553/scratchpad/fpgen/set_text.txt")' 
+\t (00:00:04) t
+\i (00:00:04) exit 
+\t (00:00:10) Lic Summary:
+[19:31:04.420000] Cdslmd servers:C:\Users\Giorgi\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[19:31:04.422000] Feature usage summary:
+[19:31:04.422000] OrCAD_X_PCB_Professional_Plus
+[19:31:04.422000] OrCAD_X_Professional_Plus
+
+\t (00:00:10)     Journal end - Wed Oct 28 19:31:04 2026

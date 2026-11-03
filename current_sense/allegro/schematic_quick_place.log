@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : current_sense.brd                             )
+(    Software Version : 24.1S010                                      )
+(    Date/Time        : Thu Oct 29 22:40:16 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "1"
+	Placed symbol:  C24 / C_C0805_1UF / C0805 at (216.1610 273.5521)
+	Placed symbol:  C25 / C_C0805_1UF / C0805 at (233.6610 285.5121)
+	Placed symbol:  U13 / LP5907MFX-3.3_SOT23_5_LP5907MFX-3.3 / SOT23_5 at (219.9110 287.0121)
+
+Placed 3 of 3 symbols.
